@@ -1,26 +1,3 @@
-/*
- * LinkedList
- * 
- * Colin Martinez
- * Programming Fundamentals III
- * COSC 2336 2801
- * 03/17/2018
- * 
- * Your job in this assignment is to create a generic linked list.  The linked list should have the ability to perform the following actions:
- * 
- * check if the list is empty
- * check the size of the list
- * add data to the list
- * add data to a specific (valid) location in the list
- * remove an item from the list based on position
- * remove an item from the list based on data value
- * removes all elements from the list
- * gets an item from the list based on the position
- * outputs the contents of the list 
- * 
- * Use the dat file from the previous assignment (Generic Quicksort) to demonstrate effectiveness of the linked list you created.
- */
-
 package linkedList.ColinMartinez;
 
 import java.io.*;
