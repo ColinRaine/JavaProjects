@@ -1,23 +1,3 @@
-/*
- * Colin Martinez
- * Programming Fundamentals III
- * COSC 2336 2801
- * 04/01/2018 
- * 
- * You are to write a program that gives its users three basic options: reverse, convert, and compare.
- * The program should ask the user to input the file name for the file in question (including the extension, .txt). (20pts)
- * If the user selects reverse the program should open the text file and read its content into a stack of characters (10pts).
- * The program should then pop the characters from the top of the stack and save them in a second text file(10pts).  The order in the second file should be the reverse of the order in the first file.  
- * If the user selects convert, the program should open a text file and read its content into as queue of characters(10pts).  
- * The program should then dequeue the characters, convert it to uppercase, and store it in a second file (10pts)
- * If the user selects compare, the program ask the user for two files and should then open the two text files and read their contents into two separate queues (10pts). 
- * The program should determine if the files are identical by comparing characters in the queues(10pts)  
- * When two nonidentical characters are encountered, the program should display a message indicating that the files are not the same(5pts) 
- * Otherwise let the user know that the files are identical(5pts).
- * You should use your own test files to make sure the program performs as specified but you do not have to include them in your submission (5pts).  
- * You are at liberty to ask the user for the file name to be examined.
- * Be sure to include the package declaration [package stacksAndQueues;] (5pts)
- */
 package stacksAndQueues.ColinMartinez;
 
 import java.io.*;
