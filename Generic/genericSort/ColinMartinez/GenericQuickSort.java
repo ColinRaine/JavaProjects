@@ -1,16 +1,3 @@
-/* Generic Quicksort
- * 
- * Colin Martinez
- * Programming Fundamentals III
- * COSC 2336 2801
- * 02/24/2018
- * 
- * This assignment simply requests that you take the quicksort algorithm 
- * that you have been working with and make it generic.  
- * You are to demonstrate the effectiveness of your work by defining a 
- * main method that passes a list of Integers, Doubles, and Strings and sorts them all. 
- * The package should be genericSort.
-*/
 package genericSort.ColinMartinez;
 
 import java.util.Arrays;
