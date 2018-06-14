@@ -1,25 +1,3 @@
-/* Quicksort
- * 
- * Colin Martinez
- * Programming Fundamentals III
- * COSC 2336 2801
- * 02/14/2018
- * 
- *  Your task in this assignment is to implement three sorting methods of your choice 
- *  to sort the women's names in the file names.dat
- *  The binary file has a list of names that your program is to sort and display in 
- *  ascending alphabetical order. You are to also implement the binary search algorithm
- *  and allow the user to search for a particular name in the list.
- *
- *	The file accompanying the problem is a binary file.  Make sure you create a method to open the file correctly.  You can use a sample names.txt to get you started but make sure you are able to open a binary file before you turn it in. I will be grading the assignments using a binary file. (15 pts)
- *	You are to read the contents of the binary file into either a string array or an ArrayList. If you are using an array, you will have to determine the size of the list to create the correct array. (10 pts)
- *	Your program should be able to sort out the names in the file using three algorithms.  For example: make a method to perform selection sort and another method to perform insertion sort and bubble sort. You choose which sorting algorithm will be used for the binary search but I need to see three sorting algorithms implemented in your program. (30 pts)
- *	Your program should then allow users to input a name and get the index of where the name is found in the file.  For example: if the user types in Mary into the search dialog box, then they should get a message indicating "The name Mary was found at index 1". (15 pts)
- *	Use binary search algorithm to conduct the search. (15 pts)
- * 	Use of dialog boxes is encouraged for a nicer looking user interface (UI). (10 pts)
- *
- *	The package name should be names.   (5 pts)                                                
-*/
 package com.names.ColinMartinez;
 
 import java.io.*;
