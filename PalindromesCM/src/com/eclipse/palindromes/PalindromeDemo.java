@@ -1,19 +1,3 @@
-/* PalindromeDemo
- * 
- * Colin Martinez
- * Programming Fundamentals III
- * COSC 2336 2801
- * 01/28/2018
- * 
- * A palindrome is a group of characters that read the same forward or backwards.
- * The goal of this assignment is to write a recursive method that detects whether
- * the String parameter it receives is a palindrome or not. 
- *  
- * 1. The method should be a boolean-returning method called isPalindrome. (30 pts)
- * 2. This method should be demonstrated in a main method. (30 pts)
- * 3. Input should be user input through console or GUI (graphical user interface using JavaFX or JOptionPane. (30 pts).
- * 4. The program package should be called palindromes. (10 pts)
-*/
 package com.eclipse.palindromes;
 import java.util.*;
 
